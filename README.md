@@ -84,6 +84,8 @@ Google Sheets, C++, Visual Studio Code, Solidworks, Ansys
 
 ## Screenshots
 
-![](images\Screenshot 2025-03-05 110244.png)
-![](images\Screenshot 2025-03-05 110320.png)
+![](/images/Screenshot 2025-03-05 110244.png)
+![](/images/Screenshot 2025-03-05 110320.png)
+
+
 
